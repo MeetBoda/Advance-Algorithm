@@ -1,2 +1,2 @@
 # Advance-Algorithm
-Lab Work of Sem 5 
+Lab Work of Semester 5 
