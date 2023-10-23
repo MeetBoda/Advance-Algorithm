@@ -45,6 +45,6 @@ int main() {
             cout << "Pattern matches at shift: " << (i - m + 1) << endl;
             q = arr[q];
         }
-    }; 
+    }
     return 0;
 }
